@@ -1,0 +1,9 @@
+[package]
+name = "rust-kuramoto"
+version = "0.1.0"
+authors = ["yonesuke <13e.e.c.13@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.3"
+nalgebra = "0.21.1"
