@@ -6,4 +6,3 @@ edition = "2018"
 
 [dependencies]
 rand = "0.7.3"
-nalgebra = "0.21.1"
